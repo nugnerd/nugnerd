@@ -54,9 +54,11 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
   text-align: center;
-  background-image: url('/banner.jpeg')
+  background-image: url('/banner.jpeg');
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
 
 }
 
