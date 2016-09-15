@@ -58,7 +58,9 @@ a {
   text-align: center;
   background-color: #159957;
   background-image: url('/banner.jpeg')
-  background-size: 50px 50px; 
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center; 
   
 }
 
