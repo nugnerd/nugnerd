@@ -57,7 +57,10 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: url('/banner.jpeg'); }
+  background-image: url('/banner.jpeg')
+  background-size: 50% 50%; 
+  
+}
 
 @media screen and (min-width: 64em) {
   .page-header {
