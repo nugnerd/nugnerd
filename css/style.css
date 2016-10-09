@@ -920,7 +920,7 @@
 /* Slider */
 
 	.slider {
-		position: relative;
+		position: center;
 	}
 
 		.slider .viewer {
