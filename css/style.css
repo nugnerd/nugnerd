@@ -928,9 +928,9 @@
 			border-radius: 0.5em;
 			border: solid 1.5em #fff;
 			height: 20em;
-			margin: 2 auto;
+			margin: 0 auto;
 			overflow: hidden;
-			width: 90%;
+			width: 80%;
 		}
 
 		.slider .slide img {
