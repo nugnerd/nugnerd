@@ -920,7 +920,7 @@
 /* Slider */
 
 	.slider {
-		position: center;
+		position: relative;
 	}
 
 		.slider .viewer {
@@ -928,9 +928,9 @@
 			border-radius: 0.5em;
 			border: solid 1.5em #fff;
 			height: 20em;
-			margin: 0 auto;
+			margin: 2 auto;
 			overflow: hidden;
-			width: 80%;
+			width: 90%;
 		}
 
 		.slider .slide img {
