@@ -9,6 +9,7 @@
 
 /* Basic */
 
+
 	body {
 		background: #fff;
 	}
@@ -1371,3 +1372,9 @@
 		#footer .copyright {
 			font-size: 0.8em;
 		}
+
+/* Extra */
+
+.entry-content p br {
+    display: block;
+}
