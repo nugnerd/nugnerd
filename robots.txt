@@ -5,6 +5,4 @@ Disallow: /no-sidebar.html
 Disallow: /stashcapplus.html
 Disallow: /originalindex.html
 Disallow: /right-sidebar.html
-Disallow: /css/
-Disallow: /fonts/
-Disallow: /sass/
+
